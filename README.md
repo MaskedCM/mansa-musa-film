@@ -3,8 +3,9 @@
 > **A 100% Code-Driven Cinematic Cartographic Documentary Built with HTML5 Canvas, HyperFrames, GSAP & FFmpeg.**
 > No AI video generators. No stock footage. Every frame is procedurally drawn on an HTML5 `<canvas>` and rendered deterministically at `1920×824` (21:9 CinemaScope, `30 fps`, `H.264 yuv420p`, `CRF 16`).
 
-[![Watch / Download Final MP4](https://img.shields.io/badge/%E2%96%B6_Watch_%2F_Download_Final_MP4-95.2_MB_(1920x824_30fps)-d8a632?style=for-the-badge)](https://github.com/MaskedCM/mansa-musa-film/releases/download/v1.0.0/mansa_musa_final.mp4)
-[![Live Interactive Canvas](https://img.shields.io/badge/%F0%9F%8C%8D_Live_Interactive_Composition-GitHub_Pages-2b2116?style=for-the-badge)](https://maskedcm.github.io/mansa-musa-film/)
+[![Watch Rendered Film](https://img.shields.io/badge/%E2%96%B6_Watch_Rendered_Film-GitHub_Pages_Player-d8a632?style=for-the-badge)](https://maskedcm.github.io/mansa-musa-film/watch.html)
+[![Download Final MP4](https://img.shields.io/badge/%E2%AC%87_Download_Final_MP4-v1.0.0_Release-a8791e?style=for-the-badge)](https://github.com/MaskedCM/mansa-musa-film/releases/download/v1.0.0/mansa_musa_final.mp4)
+[![Live Interactive Canvas](https://img.shields.io/badge/%F0%9F%8C%8D_Live_Interactive_Composition-HTML5_Canvas-2b2116?style=for-the-badge)](https://maskedcm.github.io/mansa-musa-film/)
 
 ---
 
