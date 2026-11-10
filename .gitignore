@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+node_modules/
+.hyperframes/
+frames/
+audio_parts/
+voiceover.wav
+assets/02_*.jpg
+assets/02_*.png
+assets/06_hires.jpg
+mansa_musa_master_crf16.mp4

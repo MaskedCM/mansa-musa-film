@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mansa Musa — The Golden Hajj | Code-Driven Motion Film</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      padding: 40px 24px;
+      background: #14100b;
+      color: #f4ebd9;
+      font-family: Georgia, "EB Garamond", serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      min-height: 100vh;
+    }
+    h1 {
+      margin: 0 0 8px 0;
+      font-size: 32px;
+      color: #d8a632;
+      letter-spacing: 0.05em;
+      text-align: center;
+    }
+    p.subtitle {
+      margin: 0 0 24px 0;
+      color: #b8a686;
+      font-family: "JetBrains Mono", monospace;
+      font-size: 13px;
+      text-align: center;
+    }
+    .actions {
+      margin-bottom: 24px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 14px;
+      justify-content: center;
+    }
+    a.btn {
+      display: inline-block;
+      background: #d8a632;
+      color: #14100b;
+      font-family: "JetBrains Mono", monospace;
+      font-weight: bold;
+      font-size: 14px;
+      text-decoration: none;
+      padding: 12px 22px;
+      border-radius: 6px;
+      box-shadow: 0 6px 20px rgba(216, 166, 50, 0.25);
+    }
+    a.btn.secondary {
+      background: #2b2116;
+      color: #f4ebd9;
+      border: 1px solid #d8a632;
+      box-shadow: none;
+    }
+    video {
+      width: 100%;
+      max-width: 1200px;
+      aspect-ratio: 1920 / 824;
+      border: 1px solid #3a2e1e;
+      box-shadow: 0 18px 50px rgba(0, 0, 0, 0.7);
+      background: #000;
+    }
+  </style>
+</head>
+<body>
+  <h1>MANSA MUSA — THE GOLDEN HAJJ</h1>
+  <p class="subtitle">1920×824 (21:9) · 30 fps · 78.60s · 100% Procedural HTML5 Canvas + HyperFrames + FFmpeg H.264</p>
+  <div class="actions">
+    <a class="btn" href="./mansa_musa_final.mp4" download="mansa_musa_final.mp4">⬇ Download Master MP4</a>
+    <a class="btn secondary" href="./index.html">🌍 Open Interactive Canvas Composition</a>
+    <a class="btn secondary" href="https://github.com/MaskedCM/mansa-musa-film">GitHub Repository</a>
+  </div>
+  <video controls preload="metadata" poster="./contact_sheet.jpg" src="./mansa_musa_final.mp4"></video>
+</body>
+</html>
+

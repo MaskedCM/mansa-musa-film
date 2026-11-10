@@ -1,0 +1,1103 @@
+{
+  "total_duration": 78.6,
+  "fps": 30,
+  "total_frames": 2358,
+  "voice": "en-GB-RyanNeural",
+  "beats": [
+    {
+      "id": 1,
+      "est_start": 0.18,
+      "start": 0.18,
+      "end": 5.422,
+      "duration": 5.242,
+      "text": "One man was so unfathomably generous, he single-handedly broke an entire economy.",
+      "words": [
+        {
+          "word": "One",
+          "start": 0.225,
+          "end": 0.573
+        },
+        {
+          "word": "man",
+          "start": 0.586,
+          "end": 0.831
+        },
+        {
+          "word": "was",
+          "start": 0.844,
+          "end": 1.024
+        },
+        {
+          "word": "so",
+          "start": 1.037,
+          "end": 1.282
+        },
+        {
+          "word": "unfathomably",
+          "start": 1.295,
+          "end": 2.017
+        },
+        {
+          "word": "generous",
+          "start": 2.029,
+          "end": 2.532
+        },
+        {
+          "word": "he",
+          "start": 2.777,
+          "end": 2.867
+        },
+        {
+          "word": "single-handedly",
+          "start": 2.88,
+          "end": 3.731
+        },
+        {
+          "word": "broke",
+          "start": 3.743,
+          "end": 4.026
+        },
+        {
+          "word": "an",
+          "start": 4.039,
+          "end": 4.116
+        },
+        {
+          "word": "entire",
+          "start": 4.13,
+          "end": 4.62
+        },
+        {
+          "word": "economy",
+          "start": 4.632,
+          "end": 5.122
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "est_start": 5.0,
+      "start": 5.842,
+      "end": 7.798,
+      "duration": 1.956,
+      "text": "His name was Mansa Musa.",
+      "words": [
+        {
+          "word": "His",
+          "start": 5.887,
+          "end": 6.132
+        },
+        {
+          "word": "name",
+          "start": 6.145,
+          "end": 6.416
+        },
+        {
+          "word": "was",
+          "start": 6.428,
+          "end": 6.583
+        },
+        {
+          "word": "Mansa",
+          "start": 6.596,
+          "end": 6.983
+        },
+        {
+          "word": "Musa",
+          "start": 6.995,
+          "end": 7.498
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "est_start": 8.0,
+      "start": 8.0,
+      "end": 12.288,
+      "duration": 4.288,
+      "text": "He ruled the vast empire of Mali, deep in the heart of West Africa.",
+      "words": [
+        {
+          "word": "He",
+          "start": 8.045,
+          "end": 8.225
+        },
+        {
+          "word": "ruled",
+          "start": 8.238,
+          "end": 8.509
+        },
+        {
+          "word": "the",
+          "start": 8.522,
+          "end": 8.599
+        },
+        {
+          "word": "vast",
+          "start": 8.612,
+          "end": 8.986
+        },
+        {
+          "word": "empire",
+          "start": 8.999,
+          "end": 9.489
+        },
+        {
+          "word": "of",
+          "start": 9.501,
+          "end": 9.617
+        },
+        {
+          "word": "Mali",
+          "start": 9.63,
+          "end": 10.068
+        },
+        {
+          "word": "deep",
+          "start": 10.223,
+          "end": 10.468
+        },
+        {
+          "word": "in",
+          "start": 10.481,
+          "end": 10.558
+        },
+        {
+          "word": "the",
+          "start": 10.571,
+          "end": 10.635
+        },
+        {
+          "word": "heart",
+          "start": 10.648,
+          "end": 10.983
+        },
+        {
+          "word": "of",
+          "start": 10.996,
+          "end": 11.073
+        },
+        {
+          "word": "West",
+          "start": 11.086,
+          "end": 11.447
+        },
+        {
+          "word": "Africa",
+          "start": 11.46,
+          "end": 11.988
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "est_start": 13.0,
+      "start": 13.0,
+      "end": 17.701,
+      "duration": 4.701,
+      "text": "A kingdom sitting on the richest veins of pure gold the medieval world had ever seen.",
+      "words": [
+        {
+          "word": "A",
+          "start": 13.045,
+          "end": 13.174
+        },
+        {
+          "word": "kingdom",
+          "start": 13.187,
+          "end": 13.561
+        },
+        {
+          "word": "sitting",
+          "start": 13.573,
+          "end": 13.934
+        },
+        {
+          "word": "on",
+          "start": 13.947,
+          "end": 14.05
+        },
+        {
+          "word": "the",
+          "start": 14.063,
+          "end": 14.153
+        },
+        {
+          "word": "richest",
+          "start": 14.166,
+          "end": 14.566
+        },
+        {
+          "word": "veins",
+          "start": 14.578,
+          "end": 14.952
+        },
+        {
+          "word": "of",
+          "start": 14.965,
+          "end": 15.068
+        },
+        {
+          "word": "pure",
+          "start": 15.081,
+          "end": 15.364
+        },
+        {
+          "word": "gold",
+          "start": 15.377,
+          "end": 15.673
+        },
+        {
+          "word": "the",
+          "start": 15.687,
+          "end": 15.751
+        },
+        {
+          "word": "medieval",
+          "start": 15.764,
+          "end": 16.215
+        },
+        {
+          "word": "world",
+          "start": 16.228,
+          "end": 16.537
+        },
+        {
+          "word": "had",
+          "start": 16.55,
+          "end": 16.705
+        },
+        {
+          "word": "ever",
+          "start": 16.718,
+          "end": 16.937
+        },
+        {
+          "word": "seen",
+          "start": 16.95,
+          "end": 17.401
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "est_start": 18.8,
+      "start": 18.8,
+      "end": 23.99,
+      "duration": 5.19,
+      "text": "In 1324, he set out across the desert on a sacred pilgrimage to Mecca.",
+      "words": [
+        {
+          "word": "In 1324",
+          "start": 18.845,
+          "end": 20.314
+        },
+        {
+          "word": "he",
+          "start": 20.572,
+          "end": 20.675
+        },
+        {
+          "word": "set",
+          "start": 20.688,
+          "end": 20.946
+        },
+        {
+          "word": "out",
+          "start": 20.958,
+          "end": 21.126
+        },
+        {
+          "word": "across",
+          "start": 21.139,
+          "end": 21.487
+        },
+        {
+          "word": "the",
+          "start": 21.5,
+          "end": 21.616
+        },
+        {
+          "word": "desert",
+          "start": 21.629,
+          "end": 22.003
+        },
+        {
+          "word": "on",
+          "start": 22.015,
+          "end": 22.105
+        },
+        {
+          "word": "a",
+          "start": 22.118,
+          "end": 22.157
+        },
+        {
+          "word": "sacred",
+          "start": 22.17,
+          "end": 22.582
+        },
+        {
+          "word": "pilgrimage",
+          "start": 22.595,
+          "end": 23.149
+        },
+        {
+          "word": "to",
+          "start": 23.162,
+          "end": 23.265
+        },
+        {
+          "word": "Mecca",
+          "start": 23.278,
+          "end": 23.69
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "est_start": 24.0,
+      "start": 24.0,
+      "end": 28.249,
+      "duration": 4.249,
+      "text": "Sixty thousand people marched beside him in a single glittering procession.",
+      "words": [
+        {
+          "word": "Sixty",
+          "start": 24.045,
+          "end": 24.496
+        },
+        {
+          "word": "thousand",
+          "start": 24.509,
+          "end": 24.96
+        },
+        {
+          "word": "people",
+          "start": 24.973,
+          "end": 25.321
+        },
+        {
+          "word": "marched",
+          "start": 25.334,
+          "end": 25.643
+        },
+        {
+          "word": "beside",
+          "start": 25.656,
+          "end": 26.081
+        },
+        {
+          "word": "him",
+          "start": 26.094,
+          "end": 26.236
+        },
+        {
+          "word": "in",
+          "start": 26.249,
+          "end": 26.352
+        },
+        {
+          "word": "a",
+          "start": 26.365,
+          "end": 26.417
+        },
+        {
+          "word": "single",
+          "start": 26.429,
+          "end": 26.841
+        },
+        {
+          "word": "glittering",
+          "start": 26.854,
+          "end": 27.305
+        },
+        {
+          "word": "procession",
+          "start": 27.318,
+          "end": 27.949
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "est_start": 29.0,
+      "start": 29.0,
+      "end": 33.765,
+      "duration": 4.765,
+      "text": "Followed by a royal caravan of camels, loaded with nothing but solid gold.",
+      "words": [
+        {
+          "word": "Followed",
+          "start": 29.045,
+          "end": 29.457
+        },
+        {
+          "word": "by",
+          "start": 29.47,
+          "end": 29.65
+        },
+        {
+          "word": "a",
+          "start": 29.664,
+          "end": 29.767
+        },
+        {
+          "word": "royal",
+          "start": 29.78,
+          "end": 30.154
+        },
+        {
+          "word": "caravan",
+          "start": 30.166,
+          "end": 30.656
+        },
+        {
+          "word": "of",
+          "start": 30.669,
+          "end": 30.746
+        },
+        {
+          "word": "camels",
+          "start": 30.759,
+          "end": 31.262
+        },
+        {
+          "word": "loaded",
+          "start": 31.39,
+          "end": 31.738
+        },
+        {
+          "word": "with",
+          "start": 31.751,
+          "end": 31.893
+        },
+        {
+          "word": "nothing",
+          "start": 31.906,
+          "end": 32.318
+        },
+        {
+          "word": "but",
+          "start": 32.331,
+          "end": 32.486
+        },
+        {
+          "word": "solid",
+          "start": 32.499,
+          "end": 32.86
+        },
+        {
+          "word": "gold",
+          "start": 32.872,
+          "end": 33.465
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "est_start": 34.2,
+      "start": 34.2,
+      "end": 37.999,
+      "duration": 3.799,
+      "text": "After months crossing the Sahara, he finally reached Cairo.",
+      "words": [
+        {
+          "word": "After",
+          "start": 34.245,
+          "end": 34.593
+        },
+        {
+          "word": "months",
+          "start": 34.606,
+          "end": 34.967
+        },
+        {
+          "word": "crossing",
+          "start": 34.98,
+          "end": 35.38
+        },
+        {
+          "word": "the",
+          "start": 35.392,
+          "end": 35.456
+        },
+        {
+          "word": "Sahara",
+          "start": 35.469,
+          "end": 36.023
+        },
+        {
+          "word": "he",
+          "start": 36.165,
+          "end": 36.255
+        },
+        {
+          "word": "finally",
+          "start": 36.268,
+          "end": 36.719
+        },
+        {
+          "word": "reached",
+          "start": 36.732,
+          "end": 37.08
+        },
+        {
+          "word": "Cairo",
+          "start": 37.093,
+          "end": 37.699
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "est_start": 38.6,
+      "start": 38.6,
+      "end": 43.275,
+      "duration": 4.675,
+      "text": "Where he gave gold away freely to every merchant, beggar, and official he met.",
+      "words": [
+        {
+          "word": "Where",
+          "start": 38.645,
+          "end": 38.89
+        },
+        {
+          "word": "he",
+          "start": 38.903,
+          "end": 39.019
+        },
+        {
+          "word": "gave",
+          "start": 39.032,
+          "end": 39.277
+        },
+        {
+          "word": "gold",
+          "start": 39.289,
+          "end": 39.508
+        },
+        {
+          "word": "away",
+          "start": 39.521,
+          "end": 39.804
+        },
+        {
+          "word": "freely",
+          "start": 39.818,
+          "end": 40.179
+        },
+        {
+          "word": "to",
+          "start": 40.191,
+          "end": 40.294
+        },
+        {
+          "word": "every",
+          "start": 40.307,
+          "end": 40.552
+        },
+        {
+          "word": "merchant",
+          "start": 40.565,
+          "end": 41.119
+        },
+        {
+          "word": "beggar",
+          "start": 41.325,
+          "end": 41.66
+        },
+        {
+          "word": "and",
+          "start": 41.892,
+          "end": 42.021
+        },
+        {
+          "word": "official",
+          "start": 42.034,
+          "end": 42.434
+        },
+        {
+          "word": "he",
+          "start": 42.447,
+          "end": 42.55
+        },
+        {
+          "word": "met",
+          "start": 42.563,
+          "end": 42.975
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "est_start": 44.2,
+      "start": 44.2,
+      "end": 48.501,
+      "duration": 4.301,
+      "text": "He flooded the streets with so much bullion, that the price of gold collapsed.",
+      "words": [
+        {
+          "word": "He",
+          "start": 44.245,
+          "end": 44.425
+        },
+        {
+          "word": "flooded",
+          "start": 44.438,
+          "end": 44.773
+        },
+        {
+          "word": "the",
+          "start": 44.786,
+          "end": 44.863
+        },
+        {
+          "word": "streets",
+          "start": 44.876,
+          "end": 45.263
+        },
+        {
+          "word": "with",
+          "start": 45.276,
+          "end": 45.444
+        },
+        {
+          "word": "so",
+          "start": 45.456,
+          "end": 45.675
+        },
+        {
+          "word": "much",
+          "start": 45.688,
+          "end": 45.946
+        },
+        {
+          "word": "bullion",
+          "start": 45.959,
+          "end": 46.333
+        },
+        {
+          "word": "that",
+          "start": 46.552,
+          "end": 46.655
+        },
+        {
+          "word": "the",
+          "start": 46.668,
+          "end": 46.758
+        },
+        {
+          "word": "price",
+          "start": 46.771,
+          "end": 47.106
+        },
+        {
+          "word": "of",
+          "start": 47.119,
+          "end": 47.222
+        },
+        {
+          "word": "gold",
+          "start": 47.235,
+          "end": 47.544
+        },
+        {
+          "word": "collapsed",
+          "start": 47.557,
+          "end": 48.201
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "est_start": 49.6,
+      "start": 49.6,
+      "end": 54.107,
+      "duration": 4.507,
+      "text": "Shattering Egypt's markets, taking twelve years for the economy to recover.",
+      "words": [
+        {
+          "word": "Shattering",
+          "start": 49.645,
+          "end": 50.212
+        },
+        {
+          "word": "Egypt's",
+          "start": 50.225,
+          "end": 50.65
+        },
+        {
+          "word": "markets",
+          "start": 50.663,
+          "end": 51.204
+        },
+        {
+          "word": "taking",
+          "start": 51.423,
+          "end": 51.758
+        },
+        {
+          "word": "twelve",
+          "start": 51.771,
+          "end": 52.106
+        },
+        {
+          "word": "years",
+          "start": 52.119,
+          "end": 52.48
+        },
+        {
+          "word": "for",
+          "start": 52.493,
+          "end": 52.583
+        },
+        {
+          "word": "the",
+          "start": 52.596,
+          "end": 52.686
+        },
+        {
+          "word": "economy",
+          "start": 52.699,
+          "end": 53.111
+        },
+        {
+          "word": "to",
+          "start": 53.124,
+          "end": 53.227
+        },
+        {
+          "word": "recover",
+          "start": 53.24,
+          "end": 53.807
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "est_start": 55.0,
+      "start": 55.0,
+      "end": 60.152,
+      "duration": 5.152,
+      "text": "On his journey home, he brought back the finest scholars, poets, and architects.",
+      "words": [
+        {
+          "word": "On",
+          "start": 55.045,
+          "end": 55.264
+        },
+        {
+          "word": "his",
+          "start": 55.277,
+          "end": 55.445
+        },
+        {
+          "word": "journey",
+          "start": 55.457,
+          "end": 55.818
+        },
+        {
+          "word": "home",
+          "start": 55.831,
+          "end": 56.192
+        },
+        {
+          "word": "he",
+          "start": 56.359,
+          "end": 56.436
+        },
+        {
+          "word": "brought",
+          "start": 56.45,
+          "end": 56.759
+        },
+        {
+          "word": "back",
+          "start": 56.772,
+          "end": 56.978
+        },
+        {
+          "word": "the",
+          "start": 56.991,
+          "end": 57.081
+        },
+        {
+          "word": "finest",
+          "start": 57.094,
+          "end": 57.532
+        },
+        {
+          "word": "scholars",
+          "start": 57.545,
+          "end": 58.022
+        },
+        {
+          "word": "poets",
+          "start": 58.254,
+          "end": 58.718
+        },
+        {
+          "word": "and",
+          "start": 58.872,
+          "end": 59.001
+        },
+        {
+          "word": "architects",
+          "start": 59.014,
+          "end": 59.852
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "est_start": 60.4,
+      "start": 60.4,
+      "end": 65.139,
+      "duration": 4.739,
+      "text": "In Timbuktu, they built a legendary mud-brick mosque that still stands today.",
+      "words": [
+        {
+          "word": "In",
+          "start": 60.445,
+          "end": 60.638
+        },
+        {
+          "word": "Timbuktu",
+          "start": 60.651,
+          "end": 61.373
+        },
+        {
+          "word": "they",
+          "start": 61.592,
+          "end": 61.708
+        },
+        {
+          "word": "built",
+          "start": 61.721,
+          "end": 61.979
+        },
+        {
+          "word": "a",
+          "start": 61.991,
+          "end": 62.043
+        },
+        {
+          "word": "legendary",
+          "start": 62.056,
+          "end": 62.559
+        },
+        {
+          "word": "mud-brick",
+          "start": 62.571,
+          "end": 63.035
+        },
+        {
+          "word": "mosque",
+          "start": 63.048,
+          "end": 63.383
+        },
+        {
+          "word": "that",
+          "start": 63.396,
+          "end": 63.551
+        },
+        {
+          "word": "still",
+          "start": 63.564,
+          "end": 63.873
+        },
+        {
+          "word": "stands",
+          "start": 63.886,
+          "end": 64.311
+        },
+        {
+          "word": "today",
+          "start": 64.324,
+          "end": 64.839
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "est_start": 65.8,
+      "start": 65.8,
+      "end": 70.939,
+      "duration": 5.139,
+      "text": "Word of his fortune echoed across the sea to Europe, and cartographers put him on the map.",
+      "words": [
+        {
+          "word": "Word",
+          "start": 65.845,
+          "end": 66.103
+        },
+        {
+          "word": "of",
+          "start": 66.116,
+          "end": 66.193
+        },
+        {
+          "word": "his",
+          "start": 66.206,
+          "end": 66.374
+        },
+        {
+          "word": "fortune",
+          "start": 66.386,
+          "end": 66.901
+        },
+        {
+          "word": "echoed",
+          "start": 66.915,
+          "end": 67.263
+        },
+        {
+          "word": "across",
+          "start": 67.275,
+          "end": 67.623
+        },
+        {
+          "word": "the",
+          "start": 67.636,
+          "end": 67.726
+        },
+        {
+          "word": "sea",
+          "start": 67.739,
+          "end": 67.945
+        },
+        {
+          "word": "to",
+          "start": 67.958,
+          "end": 68.061
+        },
+        {
+          "word": "Europe",
+          "start": 68.074,
+          "end": 68.499
+        },
+        {
+          "word": "and",
+          "start": 68.706,
+          "end": 68.822
+        },
+        {
+          "word": "cartographers",
+          "start": 68.835,
+          "end": 69.634
+        },
+        {
+          "word": "put",
+          "start": 69.647,
+          "end": 69.866
+        },
+        {
+          "word": "him",
+          "start": 69.878,
+          "end": 70.033
+        },
+        {
+          "word": "on",
+          "start": 70.046,
+          "end": 70.149
+        },
+        {
+          "word": "the",
+          "start": 70.162,
+          "end": 70.226
+        },
+        {
+          "word": "map",
+          "start": 70.239,
+          "end": 70.639
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "est_start": 72.0,
+      "start": 72.0,
+      "end": 78.352,
+      "duration": 6.352,
+      "text": "Mansa Musa. The golden emperor of Mali, and perhaps the richest man who ever lived.",
+      "words": [
+        {
+          "word": "Mansa",
+          "start": 72.045,
+          "end": 72.522
+        },
+        {
+          "word": "Musa",
+          "start": 72.535,
+          "end": 73.063
+        },
+        {
+          "word": "The",
+          "start": 73.954,
+          "end": 74.109
+        },
+        {
+          "word": "golden",
+          "start": 74.121,
+          "end": 74.521
+        },
+        {
+          "word": "emperor",
+          "start": 74.534,
+          "end": 74.921
+        },
+        {
+          "word": "of",
+          "start": 74.933,
+          "end": 75.036
+        },
+        {
+          "word": "Mali",
+          "start": 75.049,
+          "end": 75.5
+        },
+        {
+          "word": "and",
+          "start": 75.784,
+          "end": 75.913
+        },
+        {
+          "word": "perhaps",
+          "start": 75.925,
+          "end": 76.337
+        },
+        {
+          "word": "the",
+          "start": 76.351,
+          "end": 76.467
+        },
+        {
+          "word": "richest",
+          "start": 76.48,
+          "end": 76.918
+        },
+        {
+          "word": "man",
+          "start": 76.931,
+          "end": 77.189
+        },
+        {
+          "word": "who",
+          "start": 77.201,
+          "end": 77.394
+        },
+        {
+          "word": "ever",
+          "start": 77.407,
+          "end": 77.6
+        },
+        {
+          "word": "lived",
+          "start": 77.614,
+          "end": 78.052
+        }
+      ]
+    }
+  ]
+}

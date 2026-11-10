@@ -1,0 +1,119 @@
+<!doctype html>
+<html
+  lang="en"
+  data-composition-variables='[
+    {"id":"color-ground","type":"color","label":"Parchment Ground","default":"#E8D3AC"},
+    {"id":"color-ink","type":"color","label":"Iron-Gall Ink","default":"#1E150D"},
+    {"id":"color-accent","type":"color","label":"Burnished Gold","default":"#E5B842"},
+    {"id":"font-display","type":"string","label":"Display Font","default":"EB Garamond"},
+    {"id":"font-ui","type":"string","label":"Numeric Font","default":"JetBrains Mono"}
+  ]'
+>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1920, height=824" />
+    <title>Mansa Musa — The Emperor Who Crashed Gold</title>
+    <style>
+      @font-face {
+        font-family: "EB Garamond";
+        src: url("assets/fonts/EBGaramond-400.woff2") format("woff2");
+        font-weight: 400;
+        font-style: normal;
+        font-display: block;
+      }
+      @font-face {
+        font-family: "EB Garamond";
+        src: url("assets/fonts/EBGaramond-700.woff2") format("woff2");
+        font-weight: 700 800;
+        font-style: normal;
+        font-display: block;
+      }
+      @font-face {
+        font-family: "JetBrains Mono";
+        src: url("assets/fonts/JetBrainsMono-400.woff2") format("woff2");
+        font-weight: 400;
+        font-style: normal;
+        font-display: block;
+      }
+      @font-face {
+        font-family: "JetBrains Mono";
+        src: url("assets/fonts/JetBrainsMono-700.woff2") format("woff2");
+        font-weight: 700 800;
+        font-style: normal;
+        font-display: block;
+      }
+      :root {
+        --color-ground: #E8D3AC;
+        --color-ink: #1E150D;
+        --color-accent: #E5B842;
+        --font-display: "EB Garamond", "Palatino Linotype", Georgia, serif;
+        --font-ui: "JetBrains Mono", Consolas, monospace;
+      }
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+      html,
+      body {
+        width: 1920px;
+        height: 824px;
+        overflow: hidden;
+        background: #140f0a;
+        user-select: none;
+      }
+      #root {
+        position: relative;
+        width: 1920px;
+        height: 824px;
+        overflow: hidden;
+        background: #140f0a;
+      }
+      #stage {
+        position: absolute;
+        left: 0;
+        top: 0;
+        display: block;
+        width: 1920px;
+        height: 824px;
+        z-index: 1;
+      }
+    </style>
+    <script src="assets/gsap.min.js"></script>
+  </head>
+  <body>
+    <div
+      id="root"
+      data-composition-id="main"
+      data-start="0"
+      data-duration="78.6"
+      data-width="1920"
+      data-height="824"
+      data-fps="30"
+      data-hold
+    >
+      <canvas
+        id="stage"
+        class="clip"
+        width="1920"
+        height="824"
+        data-start="0"
+        data-duration="78.6"
+        data-track-index="0"
+        data-hold
+        data-layout-ignore
+      ></canvas>
+      <audio
+        id="voiceover"
+        class="clip"
+        src="assets/voiceover.wav"
+        data-start="0"
+        data-duration="78.6"
+        data-track-index="1"
+        data-volume="1"
+      ></audio>
+    </div>
+    <script src="assets_data.js"></script>
+    <script src="film.js"></script>
+  </body>
+</html>
